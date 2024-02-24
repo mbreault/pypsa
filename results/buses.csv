@@ -1,0 +1,6 @@
+name,v_nom,control,generator
+bus0,20.0,Slack,gen0
+bus1,20.0,PQ,
+bus2,20.0,PQ,
+bus3,20.0,PQ,
+bus4,20.0,PQ,

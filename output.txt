@@ -1,0 +1,24 @@
+Restricted license - for non-production use only - expires 2025-11-24
+Read LP format model from file /tmp/pypsa-problem-c2c6ng5s.lp
+Reading time = 0.00 seconds
+obj: 552 rows, 217 columns, 744 nonzeros
+Gurobi Optimizer version 11.0.0 build v11.0.0rc2 (linux64 - "Ubuntu 22.04.4 LTS")
+
+CPU model: Intel(R) Core(TM) i7-1068NG7 CPU @ 2.30GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 2 physical cores, 2 logical processors, using up to 2 threads
+
+Optimize a model with 552 rows, 217 columns and 744 nonzeros
+Model fingerprint: 0x1e053b45
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+00, 1e+02]
+Presolve removed 432 rows and 1 columns
+Presolve time: 0.00s
+
+Solved in 0 iterations and 0.00 seconds (0.00 work units)
+Infeasible or unbounded model
+Empty DataFrame
+Columns: []
+Index: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
